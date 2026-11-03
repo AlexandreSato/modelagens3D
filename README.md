@@ -45,4 +45,25 @@ Unlike common twist-style closures, this design aims to make opening and closing
 - [Pull-tab side](./clip150mm/clip150_ladoPuxa-orelhas.stl)
 - [Pin](./clip150mm/clip150_pino.stl)
 
+### 4. Reusable 300 mm Pet Food Packaging Clip
+
+**Folder:** [`clip300mm/`](./clip300mm/)
+
+An enlarged version of the original 150 mm packaging clip, redesigned at twice the original scale to handle larger and heavier pet food bags, particularly large dog food packages.
+
+To accommodate the build volume of a desktop 3D printer, the design was split into multiple printable sections. The two clip arms feature 35 mm long socket-style joints (*cachimbo joints*) designed to align and connect the sections using adhesive.
+
+**Design files:**
+- [Fusion 360 source](./clip300mm/clipRacao.f3d) — Native editable CAD file.
+- [STEP model](./clip300mm/clipRacao.step) — Neutral CAD format for Fusion 360, SolidWorks and other compatible software.
+
+**Printable parts (STL):**
+- [Center pin](./clip300mm/clipRacao_pino.stl)
+- [Hinge side sections](./clip300mm/clipRacao_pivoabas.stl)
+- [Center hinge section](./clip300mm/clipRacao_pivomeio.stl)
+- [Opening tab end section](./clip300mm/clipRacao_pontaClipAbre.stl)
+- [Center end section](./clip300mm/clipRacao_pontaMeio.stl)
+
+The segmented construction makes it possible to print this larger design on a standard desktop 3D printer while maintaining a continuous assembled structure.
+
 The project is shared for personal use, experimentation and further development. Feedback and improvements are welcome.
